@@ -33,8 +33,8 @@ For the Webcraft competition, I have created a responsive website for CSI MBCET.
 - **Working Contact Form:** Allows users to get in touch with CSI MBCET.
 
 ## Technologies Used
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 ## Additional Notes
