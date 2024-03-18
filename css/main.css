@@ -2141,7 +2141,7 @@ ol {
 }
 
 .hero-area .hero-inner.overlay::before {
-  opacity: 0.9;
+  opacity: 0.8;
   background: #081828;
 }
 
@@ -3883,7 +3883,7 @@ ol {
 
 .our-achievement.overlay::before {
   background-color: #d8b523;
-  opacity: 0.92;
+  opacity: 0.9;
 }
 
 .our-achievement .single-achievement {
@@ -3945,7 +3945,7 @@ ol {
 
 .call-action.overlay::before {
   background: #d8b523;
-  opacity: 0.95;
+  opacity: 0.9;
 }
 
 .call-action .call-content {
