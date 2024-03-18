@@ -9,6 +9,8 @@ To view my submission, please follow these simple steps:
 1. **Download:** Download the files to your PC.
 2. **Open:** Locate the `index.html` file in the downloaded folder and open it with a web browser.
 
+Alternatively, you can view my submission directly without downloading the files by clicking this link: [CSI MBCET Website](https://georgestep-mywork.github.io/csimbcet/).
+
 ## About the Author
 This project was submitted by:
 - **Name:** George Stephen Tharakan
